@@ -1,6 +1,12 @@
 # Chinese-Ads-Block-Rules
-Block Chinese video ads 
+#把域名直接输入Infy 拦截这类app。
+Block Chinese video ads
+
 //youku
-i-play.mobile.youku.com
+
+i-play.mobile.youku.com 
+
 //iqiyi
-mixer.cupid.iqiyi.com
+
+mixer.cupid.iqiyi.com 
+
