@@ -2,12 +2,16 @@
 #把地址直接输入Infy拦截的黑名单内。
 
 //优酷规则  
-i-play.mobile.youku.com   
+i-play.mobile.youku.com     
+
 ad.api.3g.youku.com  
 
 
+
 //搜狐
+
 agn.aty.sohu.com  
+
 mmg.aty.sohu.com  
 data.vod.itc.cn  
 sohu.vod.qingcdn.com  
