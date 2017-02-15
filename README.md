@@ -1,23 +1,21 @@
-# Chinese-Ads-Block-Rules
-#把域名直接输入Infy 拦截这类app。
-Block Chinese video ads
+# 部分中文视频拦截规则补充
+#把地址直接输入Infy拦截的黑名单内。
 
-//youku  
-
-i-play.mobile.youku.com   
+//优酷规则  
+i-play.mobile.youku.com   
 ad.api.3g.youku.com  
 
 
-//<sohu>  
-agn.aty.sohu.com  
+//搜狐
+agn.aty.sohu.com  
 mmg.aty.sohu.com  
 data.vod.itc.cn  
 sohu.vod.qingcdn.com  
 sohu.vodnew.lxdns.com  
 sohutv.m.cn.miaozhen.com  
 vsohu.admaster.com  
-//<letv>  
-ark.letv.com  
+//乐视  
+ark.letv.com  
 dc.letv.com  
 n.mark.letv.com  
 letv.irs01.com  
@@ -34,12 +32,12 @@ minisite.letv.com
 
 
 
-//hunantv  
+//湖南    
 g.cn.miaozhen.com  
 x.da.hunantv.com  
 y.da.hunantv.com  
 
-//<baofeng>  
+//<baofeng>    
 xs.houyi.baofeng.net  
 //<hunantv>  
 da.hunantv.com  
