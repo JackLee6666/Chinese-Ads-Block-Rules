@@ -7,4 +7,6 @@ i-play.mobile.youku.com
 重要提醒 iPad版优酷不要添加i-play这条规则，不然会拦截不了。
 
 ad.api.3g.youku.com
+//爱奇艺
+mixer.cupid.iqiyi.com
 
